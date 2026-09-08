@@ -1,1 +1,1 @@
-# Lec_prectice
+# Lec_Prectice
